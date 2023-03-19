@@ -3,7 +3,7 @@
 LANGUAGE: Python
 
 DESCRIPTION:
- To create a command line interface (which is sandboxed) through which we can create, modify and delete objects in our file storage. This project is a complete web application which impleents the back-end console, integrates database storage and front-end interfacing in cloning an AirBnB.
+ To create a command line interface (which is sandboxed) through which we can create, modify and delete objects in our file storage. This project is a complete web application which implements the back-end console, integrates database storage and front-end interfacing in cloning an AirBnB.
  
 CONCEPTS 
  How to create a Python package
